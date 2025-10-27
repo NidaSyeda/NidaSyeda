@@ -50,8 +50,8 @@ src="https://img.shields.io/github/followers/NidaSyeda?logo=github&style=for-the
 
 <a href="http://www.github.com/NidaSyeda"><img src="https://github-readme-stats.vercel.app/api?username=NidaSyeda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="NidaSyeda's GitHub stats" /></a>
 
- 
-
+## Hactoberfest 2025 Badges 🪶
+[![An image of @nidasyeda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nidasyeda)](https://holopin.io/@nidasyeda)
 
 <!---
 NidaSyeda/NidaSyeda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
